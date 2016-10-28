@@ -1,0 +1,96 @@
+#hi {
+    color: #4a4a4a;
+    text-align: center;
+    padding-top: 2%;
+    font-family: Brandon Grotesque;
+    font-size: 6em;
+}
+
+#hk {
+    color: #DE2910;
+}
+
+#pictures{
+    padding-left: 15%;
+    float: left;
+}
+#navbar{
+    color: #4a4a4a;
+    text-align: center;
+    font-family: Brandon Grotesque;
+    font-size: 2em;
+    
+}
+
+li
+{
+    style="list-style: none;
+}
+
+#comments{
+    text-align: center;
+    float: right;
+    padding-right: 15%;
+}
+
+#com{
+    color: #4a4a4a;
+    text-align: center;
+    font-family: Brandon Grotesque;
+    font-size: 2em;
+    
+    
+}
+
+#sentenceInput {
+    border: none;
+    border-bottom: 2px solid #DE2910;
+    float: left;
+}
+
+#comment {
+    border: none;
+    border-bottom: 2px solid #DE2910;
+    width: 100%;
+    height: 50px;
+}
+
+
+#getSentence {
+    background-color: #4a4a4a;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 4px;
+    font-family: Brandon Grotesque;
+    font-size: 2em;
+    
+}
+
+#output{
+    color: #4a4a4a;
+    text-align: center;
+    font-family: Brandon Grotesque;
+    font-size: 1em;
+    
+    
+}
+
+#p {
+    color: #4a4a4a;
+    text-align: center;
+    font-family: Brandon Grotesque;
+    font-size: 2em;
+    
+    
+}
+}
+/*
+input[type="submit"]:hover {
+    
+    color: #DE2910;
+}*/
